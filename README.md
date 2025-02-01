@@ -80,7 +80,7 @@ website_scraper/
   
 ```
 git clone https://github.com/SciFrozen-Git/website-scraper.git
-cd website_scraper
+cd website-scraper
 ```
 
 2. Create a virtual environment:
